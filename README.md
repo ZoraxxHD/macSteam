@@ -1,6 +1,7 @@
 # macsteam 
 
 "Steam unlock client" for macOS. ARM macOS, specifically. **This does not support Intel Macs!**
+Updated work of Selectively11 macsteam. I do not take any credits on it. Also interate luatools support.
 
 ## Huh?
 
