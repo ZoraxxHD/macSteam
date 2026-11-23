@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/License-AGPLv2-lightgrey?style=flat" alt="AGPLv2" />
 </p>
 
-<p align="center">
-  <a href="README.md">Français</a> · <strong>English</strong>
-</p>
-
 > [!IMPORTANT]
 > **Apple Silicon only (M1 / M2 / M3 / M4).** Intel Macs (`x86_64`) are **not** supported.
 
